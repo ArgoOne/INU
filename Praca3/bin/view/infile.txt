@@ -1,0 +1,15 @@
+Jan Kowalski 129 9 17
+Adam Bolkowski 129 8 16
+Ewa Czworak 129 8 16
+Anna Nowak 130 9 17
+Andrzej Pawlikowski 130 8 16
+Iwona Pobiera 130 8 16
+Edward Polakowski 130 8 16
+Olga Borkowska 130 9 17
+Daniel Tymkowski 130 9 17
+Dawid Wasiak 130 9 17
+Hubert Knot 130 8 16
+Robert Groszek 130 9 17
+Grzegorz Zych 130 9 17
+Karol Kwiatek 140 8 16
+Filip Peczak 140 9 17
